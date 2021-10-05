@@ -1,4 +1,4 @@
-const SettingsBill = require('./settings-bill');
+const SettingsBill = require('../settings-bill');
 let assert = require("assert");
 
 describe('Checking Default settings values', function(){
